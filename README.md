@@ -26,6 +26,20 @@ Um ChatBot pode também analisar qualquer fonte da Web que lhe seja indicada, co
 - "Based on the information at **https://en.wikipedia.org/wiki/History_of_Paris**, what were the key events in the city's history?"
 
  # Prepare for an AI development project
+ Este exercício consiste mais em explorar a criação de projetos no Azure AI Foundry, associar o recurso Azure OpenAI e observar as configurações no **Management Center**
+
+ <img width="891" height="814" alt="image" src="https://github.com/user-attachments/assets/469f3c7c-1775-498e-a45c-737d49fec295" />
+
+ <img width="873" height="797" alt="image" src="https://github.com/user-attachments/assets/804673ea-2a64-49d9-a951-61666dd36e1c" />
+
+<img width="873" height="797" alt="image" src="https://github.com/user-attachments/assets/f5b267f1-8686-4145-8442-3071c45d0b66" />
+
+Deu ainda para explorar o painel de **Setup** do Chat Playground onde é possível deixar instruções e contexto iniciais para que o modelo siga uma linha de "raciocinio".
+
+<img width="835" height="728" alt="image" src="https://github.com/user-attachments/assets/34b0ab2c-44c0-4cd1-ae1a-a22e812b63e5" />
+
+Explorando o modelo criado é fácil integrar numa solução .NET, por exemplo. O AI Foundry já mostra o código e disponibiliza os endpoints necessários para realizar a conexão.
+<img width="1800" height="825" alt="image" src="https://github.com/user-attachments/assets/c195cc71-d58b-4848-b2fd-8c749eb4e99e" />
 
 # Apply content filters to prevent the output of harmful content
 
