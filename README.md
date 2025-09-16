@@ -4,7 +4,9 @@ Explorando os Recursos de IA Generativa com Copilot e OpenAI
 Resolução dos seguintes exercícios:
 - [Explore generative AI in Azure AI Foundry Portal](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html)
 - [Prepare for an AI development project](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/01-Explore-ai-studio.html)
+  - Este exercício vem substituir o antigo **Explore Azure OpenAI**
 - [Apply content filters to prevent the output of harmful content](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/06-Explore-content-filters.html)
+  - Este exercício vem substituir o antigo **Explore content filters in Azure OpenAI**
 
  # Explore generative AI in Azure AI Foundry Portal
 **Objetivo:** Explorar o "Chat playground" com GPT-4.0
