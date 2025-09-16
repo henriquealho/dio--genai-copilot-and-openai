@@ -42,4 +42,23 @@ Explorando o modelo criado é fácil integrar numa solução .NET, por exemplo. 
 <img width="1800" height="825" alt="image" src="https://github.com/user-attachments/assets/c195cc71-d58b-4848-b2fd-8c749eb4e99e" />
 
 # Apply content filters to prevent the output of harmful content
+**Objetivo**: Explorar/conhecer os filtros de conteúdo para prevenir saídas prejudiciais (evitando danos, reforçando os principios de IA responsável).
+
+### Comunicar com o chat usando filtros de conteúdo
+Como IA responsável, o OpenAI já possui vários filtros de conteúdo, por exemplo:
+
+<img width="782" height="794" alt="image" src="https://github.com/user-attachments/assets/d7b9d19d-3a39-456d-998d-7dd16dcdc6f1" />
+
+Ou seja, questões imorais devolvem erro ou não são respondidas - alertando o utilizador.
+
+É possível criar filtros customizados
+
+<img width="1460" height="846" alt="image" src="https://github.com/user-attachments/assets/346f0691-708b-4468-ada5-14a78ea4b351" />
+<img width="1775" height="643" alt="image" src="https://github.com/user-attachments/assets/ee237843-68a9-4c86-97ac-280122d1b973" />
+<img width="1703" height="738" alt="image" src="https://github.com/user-attachments/assets/9ef90cc1-afc4-41bf-9f56-48ec5e10635a" />
+
+Criando um novo filtro e alterando o nível de bloqueio para o máximo conseguimos ter uma restrição maior no tipo de conteúdo que é introduzido como prompt:
+<img width="1028" height="780" alt="image" src="https://github.com/user-attachments/assets/78828e41-efd4-4420-8d9a-c4b7a2f0b320" />
+
+
 
